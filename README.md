@@ -16,7 +16,7 @@ Database Tables used in our SQL localhost Queries to make these table structures
 
 3.Open Queries.sql and execute the file on "college" database to make the structure given above.
 
-4.Open Student_Database_Management_System.ipynb and enter details of your SQL local host server where you created your tables.
+4.Open SDMS.ipynb and enter details of your SQL local host server where you created your tables.
 
 5.Run code, and enter details to be inserted into database.
 
