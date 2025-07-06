@@ -1,6 +1,6 @@
 # Student-Database-Management-System
 
-Database Tables used in our SQL localhost Queries to make these table structures are given in the Hospital.sql file which can be edited and executed on PopSQL.
+Database Tables used in our SQL localhost Queries to make these table structures are given in the Queries.sql file which can be edited and executed on PopSQL.
 
 ![image](https://github.com/user-attachments/assets/52217274-6616-4228-b6de-6b3b7c29bacb)
 
