@@ -1,6 +1,6 @@
 # Student-Database-Management-System
 
-Database Tables used in our SQL localhost Queries to make these table structures are given in the Queries.sql file which can be edited and executed on PopSQL.
+Database Tables used in our SQL localhost Queries to make these table structures are given in the Queries.sql file which can be edited and executed on PopSQL or MySQL.
 
 ![image](https://github.com/user-attachments/assets/52217274-6616-4228-b6de-6b3b7c29bacb)
 
@@ -9,16 +9,17 @@ Database Tables used in our SQL localhost Queries to make these table structures
 ### How to Use:
 1. Clone git repositry by typing this on terminal
    ```bash
-   git clone https://github.com/manan21mth/Student-Database-Management-System.git
+   git clone https://github.com/Digiiiii/SQL-Database-Management.git
    ```
    
-2.Create a database of name "colge" in your local SQL Server
+2.Create a database of name "college" in your local SQL Server
 
-3.Open Student_Database_Management_System.ipynb and enter details of your SQL local host server where you created your tables.
+3.Open Queries.sql and execute the file on "college" database to make the structure given above.
 
-4.Open Queries.sql and execute the file on "colge" database to make the structure given above.
+4.Open Student_Database_Management_System.ipynb and enter details of your SQL local host server where you created your tables.
 
-5.Now see comments of cells after the 5th cell and run accordingly to your use.
+5.Run code, and enter details to be inserted into database.
+
 
 ## Created Tables by me - 
 
